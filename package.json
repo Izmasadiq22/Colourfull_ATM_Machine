@@ -1,9 +1,9 @@
 {
   "name": "izma44-atm-machine",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
-  "pin": "index.js",
+  "bin": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
